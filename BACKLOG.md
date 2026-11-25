@@ -9,16 +9,18 @@
 - [ ] **Overview** :-
     - [✔] Controllers
     - [✔] Providers
-    - [ ] Modules
-    - [ ] Middleware
-    - [ ] Exception Filters
-    - [ ] Pipes
-    - [ ] Guards
-    - [ ] Interceptors
+    - [✔] Modules
+    - [✔] Middleware
+    - [✔] Exception Filters
+    - [✔] Pipes
+    - [✔] Guards
+    - [✔] Interceptors
     - [ ] Custom Decorators
 
 - **Notes** :-
     - I need to revision on "Encapsulates" 
     - whats mean by singletons? 
     - understand more about Dynamic VS Global
-    - return to "useValue" 
+    - return to "useValue"
+
+ 
